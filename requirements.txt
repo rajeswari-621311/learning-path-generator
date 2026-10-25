@@ -1,0 +1,9 @@
+langchain
+langgraph
+langchain-mcp-adapters
+langchain-google-genai
+langchain-core
+streamlit
+python-dotenv
+composio
+composio-langchain
